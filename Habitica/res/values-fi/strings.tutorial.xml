@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="tutorial_equipment">Ostamasi varusteet ilmestyvät tänne. Kamppailuvarusteesi vaikuttavat hahmosi kykyihin, ja Pukusi (jos käytät sellaista) vaikuttaa siihen, miltä hahmosi näyttää. </string>
+  <string name="tutorial_items">Ansaitse tavaroita suorittamalla tehtäviä ja nousemalla tasoja. Klikkaa tavaraa käyttääksesi sitä!</string>
+  <string name="tutorial_pets">Tehdessäsi tosielämässä askareita sinulla on mahdollisuus löytää satunnaisia munia ja taikaliemiä. Yhdistä näitä luodaksesi lemmikkejä. </string>
+  <string name="tutorial_skills">Kyvyt ovat erikoistaitoja, joilla on voimakas vaikutus! Klikkaa kykyä käyttääksesi sitä. Kyvyt maksavat Voimaa (sininen palkki), jota ansaitset kirjautumalla sovellukseen päivittäin sekä suorittamalla tosielämäsi tehtävät. Lue lisää infoa menun alta löytyvästä FAQ:sta!</string>
+  <string name="tutorial_party">Täällä sinä ja ystäväsi voitte tukea toistenne tavoitteita, sekä taistella tehtäviä tekemällä vihollisia vastaan!</string>
+  <string name="tutorial_tavern">Tervetuloa Tavernaan, joka on julkinen kaikenikäisille suunnattu keskustelutila. Täällä voit jutella tuotteliasuudesta sekä kysyä asioista. Pidä hauskaa!</string>
+  <string name="tutorial_classes">Valitse tuleeko sinusta soturi, velho, parantaja vai varas! Jokaisella hahmoluokalla on omat erityiset varusteet ja taidot. Klikkaa (?) saadaksesi tietää lisää! </string>
+</resources>

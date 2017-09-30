@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="sidebar.tasks">Tehtävät</string>
+  <string name="sidebar.skills">Taidot</string>
+  <string name="sidebar.section.social">Pulinapaikka</string>
+  <string name="sidebar.inbox">Postilaatikko</string>
+  <string name="sidebar.tavern">Taverna</string>
+  <string name="sidebar.party">Ryhmä</string>
+  <string name="sidebar.guilds">Killat</string>
+  <string name="sidebar.challenges">Haasteet</string>
+  <string name="sidebar.section.inventory">Varasto</string>
+  <string name="sidebar.avatar">Hahmosi</string>
+  <string name="sidebar.equipment">Tarvikkeet</string>
+  <string name="sidebar.stable">Talli</string>
+  <string name="sidebar.news">Uutiset</string>
+  <string name="sidebar.settings">Asetukset</string>
+  <string name="sidebar.about">Tietoja</string>
+  <string name="sidebar_shops">Kaupat</string>
+</resources>

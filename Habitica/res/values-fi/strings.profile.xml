@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_pets_and_mounts">Lemmikit &amp; Ratsut</string>
+    <string name="profile_pets_found">Löydetyt lemmikit</string>
+    <string name="profile_mounts_tamed">Kesytetyt ratsut</string>
+    <string name="profile_loading_data">ladataan tietoja.</string>
+    <string name="profile_send_message_to">Lähetä viesti käyttäjälle %s</string>
+    <string name="profile_message_sent_to">Viesti lähetetty käyttäjälle %s</string>
+    <string name="profile_level">Taso:</string>
+    <string name="profile_class_bonus">Luokkabonus</string>
+    <string name="profile_allocated">Allocated:</string>
+    <string name="profile_boosts">Boostit:</string>
+    <string name="profile_private_message">Yksityisviestit</string>
+    <string name="profile_achievements">Saavutukset</string>
+    <string name="profile_achievement_ok">Ok</string>
+    <string name="profile_qrcode_close">Sulje</string>
+
+</resources>
